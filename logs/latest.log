@@ -1,0 +1,221 @@
+[14:27:57] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.1+13-LTS; BellSoft null) on Linux 6.12.63+deb13-amd64 (amd64)
+[14:27:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-46-main@8e5e54f (2025-12-20T01:39:32Z) for Minecraft 1.21.11
+[14:27:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:27:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[14:27:59] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Veinminer (2.4.9)
+[14:27:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - CoreProtect (23.0), InvSeePlusPlus (0.31.0), InvSeePlusPlus_Clear (0.30.15), InvSeePlusPlus_Give (0.30.15), SkinsRestorer (15.10.2)
+[14:28:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:28:04] [ServerMain/INFO]: Loaded 1470 recipes
+[14:28:04] [ServerMain/INFO]: Loaded 1584 advancements
+[14:28:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:28:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 252,2ms
+[14:28:04] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[14:28:04] [Server thread/INFO]: Loading properties
+[14:28:05] [Server thread/INFO]: This server is running Paper version 1.21.11-46-main@8e5e54f (2025-12-20T01:39:32Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[14:28:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:28:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:28:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:28:05] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[14:28:05] [Server thread/INFO]: Default game type: SURVIVAL
+[14:28:05] [Server thread/INFO]: Generating keypair
+[14:28:05] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25565
+[14:28:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:28:05] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[14:28:06] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.31.0
+[14:28:06] [Server thread/INFO]: [InvSee++_Clear] Loading server plugin InvSeePlusPlus_Clear v0.30.15
+[14:28:06] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.4.9
+[14:28:06] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[14:28:07] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v23.0
+[14:28:07] [Server thread/INFO]: [InvSee++_Give] Loading server plugin InvSeePlusPlus_Give v0.30.15
+[14:28:07] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.10.2
+[14:28:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:28:07] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.4.9
+[14:28:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.10.2
+[14:28:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[14:28:09] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[14:28:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:28:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:28:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:28:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:28:09] [Server thread/INFO]: Preparing level "Jerusalem"
+[14:28:10] [Server thread/INFO]: Loading 82 persistent chunks for world 'minecraft:overworld'...
+[14:28:10] [Server thread/INFO]: Preparing spawn area: 10%
+[14:28:10] [Server thread/INFO]: Preparing spawn area: 10%
+[14:28:11] [Server thread/INFO]: Prepared spawn area in 1410 ms
+[14:28:11] [Server thread/INFO]: Loading 30 persistent chunks for world 'minecraft:the_nether'...
+[14:28:11] [Server thread/INFO]: Preparing spawn area: 25%
+[14:28:12] [Server thread/INFO]: Prepared spawn area in 144 ms
+[14:28:12] [Server thread/INFO]: Loading 30 persistent chunks for world 'minecraft:the_end'...
+[14:28:12] [Server thread/INFO]: Preparing spawn area: 25%
+[14:28:12] [Server thread/INFO]: Prepared spawn area in 59 ms
+[14:28:12] [Server thread/INFO]: Done preparing level "Jerusalem" (2.905s)
+[14:28:12] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.31.0
+[14:28:12] [Server thread/INFO]: [InvSee++] Detected server software: Paper version 1.21.11
+[14:28:12] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.30.15
+[14:28:12] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.0
+[14:28:12] [Server thread/INFO]: [CoreProtect] Minecraft 1.21.11 is not supported.
+[14:28:12] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition was unable to start.
+[14:28:12] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v23.0
+[14:28:12] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[14:28:12] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v23.0
+[14:28:12] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.30.15
+[14:28:12] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is outdated (1.21.11). Installed: 2.4.9 -> Latest: 2.5.3
+[14:28:13] [Server thread/INFO]: [spark] Starting background profiler...
+[14:28:13] [Server thread/INFO]: Running delayed init tasks
+[14:28:13] [Server thread/INFO]: Done (17.579s)! For help, type "help"
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.10.2
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 5fb8cc7
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.11.0) is available! Downloading update...
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[14:28:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[14:28:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 2689ms
+[14:28:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[14:28:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[14:28:32] [User Authenticator #0/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
+[14:28:33] [Server thread/INFO]: IV_Bauduoin joined the game
+[14:28:33] [Server thread/INFO]: IV_Bauduoin[/127.0.0.1:50252] logged in with entity id 318 at ([Jerusalem]536.0084439889332, 127.0, -307.76249998807907)
+[14:44:00] [Server thread/INFO]: IV_Bauduoin issued server command: /locate biome minecraft:nether_wastes
+[14:44:00] [Server thread/INFO]: Locating element minecraft:nether_wastes took 10 ms
+[14:52:39] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:52:51] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[14:52:53] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:53:20] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[14:53:22] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:53:33] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[14:53:44] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:54:10] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[14:54:23] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:54:29] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[14:54:32] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:54:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[14:55:53] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:55:54] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[14:55:56] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[14:58:13] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[14:58:15] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:00:02] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:00:17] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:00:49] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:00:56] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:02:38] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:ruined_portal
+[15:02:41] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:ruined_portal_nether
+[15:02:41] [Server thread/INFO]: Locating element minecraft:ruined_portal_nether took 0 ms
+[15:05:14] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:05:20] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:05:20] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:05:24] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:08:02] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:08:10] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:09:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:09:06] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:10:02] [Server thread/INFO]: IV_Bauduoin has completed the challenge [Subspace Bubble]
+[15:10:14] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:10:56] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:11:15] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> -6040 -11357
+[15:12:13] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:12:25] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:25:06] [Server thread/INFO]: IV_Bauduoin issued server command: /give IV_Bauduoin minecraft:obsidian 8
+[15:25:06] [Server thread/INFO]: [IV_Bauduoin: Gave 8 [Obsidian] to IV_Bauduoin]
+[15:31:59] [Server thread/INFO]: Villager Villager['Villager'/402, uuid='caf3a309-2e53-4f65-9903-f0e2f7e49712', l='ServerLevel[Jerusalem]', x=656.46, y=116.92, z=-254.47, cpos=[41, -16], tl=29513, v=true] died, message: 'Villager was slain by Zombie'
+[15:32:01] [Server thread/INFO]: Villager Villager['Villager'/391, uuid='e48facd2-2974-4331-a50d-fb44c2615946', l='ServerLevel[Jerusalem]', x=653.28, y=117.25, z=-255.41, cpos=[40, -16], tl=29578, v=true] died, message: 'Villager was slain by Zombie'
+[15:35:55] [Async Chat Thread - #1/INFO]: [Not Secure] <IV_Bauduoin> -2591 -219
+[15:36:49] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:36:55] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:51:20] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:51:28] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:51:34] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[15:51:36] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[15:52:29] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[15:55:03] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
+[15:55:03] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
+[16:06:02] [Server thread/INFO]: IV_Bauduoin has made the advancement [Isn't It Iron Pick]
+[16:08:00] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[16:08:08] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[16:09:50] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[16:09:59] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[16:13:00] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[16:13:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[16:20:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[16:20:04] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[16:20:33] [Server thread/INFO]: IV_Bauduoin issued server command: /spawnpoint
+[16:20:33] [Server thread/INFO]: [IV_Bauduoin: Set spawn point to -20747, 64, -1740 [0.0, 0.0] in minecraft:overworld for IV_Bauduoin]
+[16:29:29] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[16:29:36] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[16:29:40] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[16:29:45] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[16:39:39] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:village_taiga
+[16:39:39] [Server thread/INFO]: Locating element minecraft:village_taiga took 30 ms
+[16:39:42] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:village_savanna
+[16:39:44] [Server thread/INFO]: Locating element minecraft:village_savanna took 1622 ms
+[16:39:47] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:village_snowy
+[16:39:48] [Server thread/INFO]: Locating element minecraft:village_snowy took 1078 ms
+[16:50:55] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
+[16:50:55] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
+[16:55:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[16:55:59] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[17:03:04] [Server thread/INFO]: IV_Bauduoin was slain by Spider
+[17:08:13] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
+[17:08:13] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
+[17:18:06] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[17:18:11] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[17:22:27] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[17:22:40] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[17:25:12] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[17:25:24] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[17:36:02] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[17:36:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[17:38:12] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[17:38:13] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[17:38:33] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[17:38:34] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[17:39:11] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
+[17:39:11] [Server thread/INFO]: IV_Bauduoin left the game
+[18:01:57] [Server thread/INFO]: Stopping the server
+[18:01:57] [Server thread/INFO]: Stopping server
+[18:01:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.10.2
+[18:01:57] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
+[18:01:57] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
+[18:01:57] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
+[18:01:57] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
+[18:01:57] [Server thread/INFO]: Saving players
+[18:01:57] [Server thread/INFO]: Saving worlds
+[18:01:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
+[18:01:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
+[18:01:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
+[18:01:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
+[18:01:57] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 196 entity chunks, 0 poi chunks in world 'Jerusalem' in 0,19s
+[18:01:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
+[18:01:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
+[18:01:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 99 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0,17s
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
+[18:01:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0,01s
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
+[18:01:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
+[18:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
+[18:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:01:58] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[18:01:58] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[18:01:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[18:01:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
