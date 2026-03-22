@@ -1,231 +1,421 @@
-[08:15:07] [User Authenticator #0/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
-[08:15:10] [Server thread/INFO]: IV_Bauduoin joined the game
-[08:15:28] [Server thread/INFO]: IV_Bauduoin[/192.168.1.116:59210] logged in with entity id 1304 at ([Jerusalem]504.76180461715666, 126.5, -303.4978713869382)
-[08:17:21] [Server thread/INFO]: IV_Bauduoin issued server command: /tick freeze
-[08:17:21] [Server thread/INFO]: [IV_Bauduoin: The game is frozen]
-[08:17:40] [Server thread/INFO]: IV_Bauduoin issued server command: /give IV_Bauduoin minecraft:copper_golem_spawn_egg
-[08:17:40] [Server thread/INFO]: [IV_Bauduoin: Gave 1 [Copper Golem Spawn Egg] to IV_Bauduoin]
-[08:18:10] [Server thread/INFO]: IV_Bauduoin issued server command: /attribute 1f34f5cf-a650-4f04-9273-36053e6c18aa minecraft:movement_speed base set 0
-[08:18:43] [Server thread/INFO]: IV_Bauduoin issued server command: /tick unfreeze
-[08:18:43] [Server thread/INFO]: [IV_Bauduoin: The game is running normally]
-[08:19:45] [Server thread/INFO]: IV_Bauduoin issued server command: /give IV_Bauduoin minecraft:copper_golem_spawn_egg
-[08:19:45] [Server thread/INFO]: [IV_Bauduoin: Gave 1 [Copper Golem Spawn Egg] to IV_Bauduoin]
-[08:19:53] [Server thread/INFO]: IV_Bauduoin issued server command: /tick freeze
-[08:19:53] [Server thread/INFO]: [IV_Bauduoin: The game is frozen]
-[08:20:09] [Server thread/INFO]: IV_Bauduoin issued server command: /attribute d2fadf67-ed26-43c5-bcb9-fd3a7713c10e minecraft:movement_speed base set 0
-[08:20:13] [Server thread/INFO]: IV_Bauduoin issued server command: /tick unfreeze
-[08:20:13] [Server thread/INFO]: [IV_Bauduoin: The game is running normally]
-[08:26:57] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[08:26:57] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[08:27:54] [User Authenticator #1/INFO]: UUID of player XXKRALTR is 90bac6b6-476b-3392-a069-0b8cbc227186
-[08:27:55] [Server thread/INFO]: XXKRALTR joined the game
-[08:27:55] [Server thread/INFO]: XXKRALTR[/192.168.1.116:46584] logged in with entity id 3348 at ([Jerusalem]341.47697014458697, 63.0, -452.2495687102562)
-[08:27:59] [Async Chat Thread - #0/INFO]: [Not Secure] <XXKRALTR> sa
-[08:28:04] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> as
-[08:28:07] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> hg
-[08:28:11] [Async Chat Thread - #0/INFO]: [Not Secure] <XXKRALTR> hb
-[08:28:56] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> düzleyelim dediğimiz arsayı düzlüyom
-[08:29:18] [Async Chat Thread - #1/INFO]: [Not Secure] <XXKRALTR> oha
-[08:29:25] [Async Chat Thread - #1/INFO]: [Not Secure] <XXKRALTR> adamsın
-[08:29:30] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> eyw
-[08:31:10] [Async Chat Thread - #2/INFO]: [Not Secure] <XXKRALTR> buraya cami falan mı yapsak
-[08:31:37] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
-[08:35:44] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[08:35:44] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[08:36:48] [Server thread/INFO]: IV_Bauduoin issued server command: /attribute IV_Bauduoin minecraft:block_interaction_range get
-[08:38:26] [Async Chat Thread - #4/INFO]: [Not Secure] <IV_Bauduoin> arsa hazır hocam
-[08:38:36] [Async Chat Thread - #4/INFO]: [Not Secure] <XXKRALTR> ben de aşağıyı imha ediyorum
-[08:39:34] [Async Chat Thread - #4/INFO]: [Not Secure] <XXKRALTR> buraya köprü yapacağım
-[08:39:40] [Async Chat Thread - #4/INFO]: [Not Secure] <IV_Bauduoin> sarar
-[08:41:34] [Async Chat Thread - #6/INFO]: [Not Secure] <IV_Bauduoin> dc de misin
-[08:41:38] [Async Chat Thread - #6/INFO]: [Not Secure] <XXKRALTR> yok
-[08:41:57] [Async Chat Thread - #6/INFO]: [Not Secure] <IV_Bauduoin> aklıma çok epik bir şey geld
-[08:42:06] [Async Chat Thread - #7/INFO]: [Not Secure] <XXKRALTR> gelim mi dc
-[08:42:15] [Async Chat Thread - #6/INFO]: [Not Secure] <IV_Bauduoin> gelsene
-[08:42:22] [Async Chat Thread - #6/INFO]: [Not Secure] <IV_Bauduoin> vpn açim geliyom ben de
-[08:43:06] [Server thread/INFO]: IV_Bauduoin lost connection: Timed out
-[08:43:06] [Server thread/INFO]: IV_Bauduoin left the game
-[08:43:23] [User Authenticator #2/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
-[08:43:23] [Server thread/INFO]: IV_Bauduoin joined the game
-[08:43:23] [Server thread/INFO]: IV_Bauduoin[/192.168.1.116:45762] logged in with entity id 7076 at ([Jerusalem]363.591884007207, 72.0, -359.0334054954331)
-[08:44:14] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
-[08:44:17] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[08:44:17] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[08:45:20] [Async Chat Thread - #8/INFO]: [Not Secure] <IV_Bauduoin> 328 79 -347
-[08:46:51] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 360 79 -402 328 79 -347 minecraft:dirt
-[08:46:51] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 1848 block(s)]
-[08:47:09] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[08:47:17] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[08:47:24] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 360 79 -402 328 79 -347 minecraft:air
-[08:47:24] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 1848 block(s)]
-[08:48:09] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 360 63 -402 328 78 -347 minecraft:dirt
-[08:48:09] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 24574 block(s)]
-[08:48:19] [Server thread/INFO]: Villager Villager['Weaponsmith'/1435, uuid='7304fc48-57dc-4e7e-9496-c9ebe974dfc4', l='ServerLevel[Jerusalem]', x=359.43, y=66.00, z=-366.30, cpos=[22, -23], tl=36048, v=true] died, message: 'Weaponsmith suffocated in a wall'
-[08:48:58] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 360 63 -402 328 78 -347 minecraft:air
-[08:48:59] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 29568 block(s)]
-[08:50:02] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[08:50:11] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[08:50:25] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 360 63 -402 328 72 -347 minecraft:dirt
-[08:50:25] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 18480 block(s)]
-[08:50:31] [Server thread/INFO]: Villager Villager['Weaponsmith'/1434, uuid='227985fb-15cc-4205-b507-571c7ffd4de0', l='ServerLevel[Jerusalem]', x=360.64, y=63.00, z=-366.85, cpos=[22, -23], tl=38683, v=true] died, message: 'Weaponsmith suffocated in a wall'
-[08:50:35] [Server thread/INFO]: Villager Villager['Farmer'/1433, uuid='4f102f39-f5ac-46af-aad7-a98b313394aa', l='ServerLevel[Jerusalem]', x=360.44, y=63.00, z=-366.19, cpos=[22, -23], tl=38760, v=true] died, message: 'Farmer suffocated in a wall'
-[08:51:07] [Server thread/INFO]: IV_Bauduoin issued server command: /tp XXKRALTR
-[08:51:07] [Server thread/INFO]: [IV_Bauduoin: Teleported IV_Bauduoin to XXKRALTR]
-[08:51:22] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[08:51:26] [Server thread/INFO]: XXKRALTR was shot by Skeleton
-[08:51:26] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
-[08:51:49] [Server thread/INFO]: IV_Bauduoin issued server command: /tp XXKRALTR IV_Bauduoin
-[08:51:49] [Server thread/INFO]: [IV_Bauduoin: Teleported XXKRALTR to IV_Bauduoin]
-[08:52:44] [Async Chat Thread - #10/INFO]: [Not Secure] <IV_Bauduoin> 271 89 -462
-[08:53:08] [Async Chat Thread - #10/INFO]: [Not Secure] <IV_Bauduoin> 261 89 -469
-[08:53:43] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 271 89 -462 261 83 -469
-[08:53:52] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 271 89 -462 261 83 -469 minecraft:air
-[08:53:52] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 194 block(s)]
-[08:54:02] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[08:54:02] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[08:55:45] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:07:04] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee XXKRALTR
-[09:08:22] [Server thread/INFO]: XXKRALTR was shot by Skeleton
-[09:08:35] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[09:08:35] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[09:09:17] [Server thread/INFO]: IV_Bauduoin issued server command: /tick freeze
-[09:09:17] [Server thread/INFO]: [IV_Bauduoin: The game is frozen]
-[09:09:24] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:copper_golem 514.25 133.00 -288.97
-[09:09:24] [Server thread/INFO]: [IV_Bauduoin: Summoned new Copper Golem]
-[09:09:32] [Server thread/INFO]: IV_Bauduoin issued server command: /tick unfreeze
-[09:09:32] [Server thread/INFO]: [IV_Bauduoin: The game is running normally]
-[09:09:50] [Server thread/INFO]: IV_Bauduoin issued server command: /attribute ad898f87-d5e1-43a7-8638-bfceba92213d minecraft:movement_speed base set 0
-[09:21:20] [Server thread/INFO]: XXKRALTR fell from a high place
-[09:23:46] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:23:49] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:23:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:23:59] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:24:19] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:24:22] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:24:59] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:copper_golem 514.25 133.00 -288.97
-[09:24:59] [Server thread/INFO]: [IV_Bauduoin: Summoned new Copper Golem]
-[09:25:03] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:copper_golem 514.25 133.00 -288.97
-[09:25:03] [Server thread/INFO]: [IV_Bauduoin: Summoned new Copper Golem]
-[09:25:10] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:25:12] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:26:30] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[09:26:30] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[09:26:54] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:26:59] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:27:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:28:20] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:28:31] [Server thread/INFO]: IV_Bauduoin issued server command: /weather clear
-[09:28:31] [Server thread/INFO]: [IV_Bauduoin: Set the weather to clear]
-[09:30:12] [Server thread/INFO]: IV_Bauduoin issued server command: /gamemode creative XXKRALTR
-[09:30:12] [Server thread/INFO]: [IV_Bauduoin: Set XXKRALTR's game mode to Creative Mode]
-[09:31:02] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:31:04] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:31:08] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:31:10] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:31:18] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:31:21] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:31:27] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem
-[09:31:27] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:32:12] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:32:20] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:32:30] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:32:34] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:32:44] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:32:47] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:32:53] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:32:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:33:24] [Server thread/INFO]: IV_Bauduoin experienced kinetic energy
-[09:33:35] [Server thread/INFO]: IV_Bauduoin issued server command: /tp XXKRALTR
-[09:33:35] [Server thread/INFO]: [IV_Bauduoin: Teleported IV_Bauduoin to XXKRALTR]
-[09:34:00] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:34:06] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:34:17] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:34:27] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:34:34] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:34:40] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:35:21] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[09:35:21] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[09:35:45] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:35:51] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:36:15] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:36:18] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:36:27] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:36:29] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:36:49] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
-[09:37:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:37:27] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
-[09:37:33] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem
-[09:37:33] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:37:37] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:38:00] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:38:04] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:38:26] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:38:30] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:39:01] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:39:04] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:39:21] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:39:22] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:39:26] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:26] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:39:29] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47 5
-[09:39:31] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:31] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:39:34] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:34] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:39:34] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:34] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:39:34] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:34] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:39:35] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:35] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:39:35] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:35] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:39:36] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:iron_golem 286.08 61.00 -497.47
-[09:39:36] [Server thread/INFO]: [IV_Bauduoin: Summoned new Iron Golem]
-[09:40:06] [Server thread/INFO]: IV_Bauduoin issued server command: /gamemode survival XXKRALTR
-[09:40:06] [Server thread/INFO]: [IV_Bauduoin: Set XXKRALTR's game mode to Survival Mode]
-[09:41:04] [Server thread/INFO]: XXKRALTR fell from a high place
-[09:41:31] [Server thread/INFO]: XXKRALTR lost connection: Disconnected
-[09:41:31] [Server thread/INFO]: XXKRALTR left the game
-[09:41:52] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[09:41:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[09:43:31] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
-[09:43:32] [Server thread/INFO]: IV_Bauduoin left the game
-[10:17:23] [Server thread/INFO]: Stopping the server
-[10:17:23] [Server thread/INFO]: Stopping server
-[10:17:23] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
-[10:17:23] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
-[10:17:23] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.11.0
-[10:17:23] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
-[10:17:23] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
-[10:17:23] [Server thread/INFO]: Saving players
-[10:17:23] [Server thread/INFO]: Saving worlds
-[10:17:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
-[10:17:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
-[10:17:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
-[10:17:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Saved 22 block chunks, 288 entity chunks, 0 poi chunks in world 'Jerusalem' in 0.64s
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
-[10:17:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 15 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0.03s
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
-[10:17:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0.01s
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
-[10:17:24] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
-[10:17:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
-[10:17:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:17:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:17:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10:17:24] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[10:17:24] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[10:17:24] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[10:17:24] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[10:20:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10; Termux null) on Linux 5.15.180-android13-3-32154196 (aarch64)
+[10:20:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-46-main@8e5e54f (2025-12-20T01:39:32Z) for Minecraft 1.21.11
+[10:20:37] [ServerMain/WARN]: [oshi.software.os.linux.LinuxOperatingSystem] Did not find udev library in operating system. Some features may not work.
+[10:20:37] [ServerMain/ERROR]: [oshi.software.os.linux.LinuxOperatingSystem] Did not JNA classes. Investigate incompatible version or missing native dll.
+[10:20:37] [ServerMain/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35) ~[jna-5.17.0.jar:5.17.0 (b0)]
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$7(SystemReport.java:87) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:95) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:87) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.lambda$new$2(SystemReport.java:61) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:95) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:61) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:32) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.CrashReport.preload(CrashReport.java:223) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.Main.main(Main.java:103) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.UnsatisfiedLinkError: /data/data/com.termux/files/home/.cache/JNA/temp/jna8335100589327254201.tmp: dlopen failed: library "libc.so.6" not found: needed by /data/data/com.termux/files/home/.cache/JNA/temp/jna8335100589327254201.tmp in namespace (default) [in thread "ServerMain"]
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method) ~[?:?]
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:331) ~[?:?]
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:197) ~[?:?]
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:139) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2418) ~[?:?]
+	at java.base/java.lang.Runtime.load0(Runtime.java:852) ~[?:?]
+	at java.base/java.lang.System.load(System.java:2025) ~[?:?]
+	at com.sun.jna.Native.loadNativeDispatchLibraryFromClasspath(Native.java:1041) ~[jna-5.17.0.jar:5.17.0 (b0)]
+	at com.sun.jna.Native.loadNativeDispatchLibrary(Native.java:1011) ~[jna-5.17.0.jar:5.17.0 (b0)]
+	at com.sun.jna.Native.<clinit>(Native.java:221) ~[jna-5.17.0.jar:5.17.0 (b0)]
+	at com.sun.jna.platform.linux.Udev.<clinit>(Udev.java:37) ~[jna-platform-5.17.0.jar:5.17.0 (b0)]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:93) ~[oshi-core-6.9.0.jar:6.9.0]
+	... 19 more
+[10:20:38] [ServerMain/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem
+	at oshi.hardware.platform.linux.LinuxGlobalMemory.<clinit>(LinuxGlobalMemory.java:28) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createMemory(LinuxHardwareAbstractionLayer.java:38) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:60) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$9(SystemReport.java:89) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:95) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:89) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.lambda$new$2(SystemReport.java:61) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:95) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:61) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:32) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.CrashReport.preload(CrashReport.java:223) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.Main.main(Main.java:103) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native [in thread "ServerMain"]
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35) ~[jna-5.17.0.jar:5.17.0 (b0)]
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$7(SystemReport.java:87) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:95) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:87) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	... 10 more
+[10:20:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:20:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[10:20:39] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Veinminer (2.4.9)
+[10:20:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - CoreProtect (23.0), InvSeePlusPlus (0.31.0), InvSeePlusPlus_Clear (0.30.15), InvSeePlusPlus_Give (0.30.15), SkinsRestorer (15.11.0)
+[10:20:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:20:51] [ServerMain/INFO]: Loaded 1470 recipes
+[10:20:51] [ServerMain/INFO]: Loaded 1584 advancements
+[10:20:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[10:20:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 758.9ms
+[10:20:52] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[10:20:52] [Server thread/INFO]: Loading properties
+[10:20:52] [Server thread/INFO]: This server is running Paper version 1.21.11-46-main@8e5e54f (2025-12-20T01:39:32Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[10:20:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:20:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:20:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:20:53] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[10:20:53] [Server thread/INFO]: Default game type: SURVIVAL
+[10:20:53] [Server thread/INFO]: Generating keypair
+[10:20:53] [Server thread/INFO]: Starting Minecraft server on 192.168.1.116:25565
+[10:20:54] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[10:20:54] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[10:20:54] [Server thread/WARN]: [io.netty.util.internal.MacAddressUtil] Failed to find a usable hardware address from the network interfaces; using random bytes: f9:8f:4a:2b:5f:26:f7:39
+[10:20:54] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.31.0
+[10:20:54] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.4.9
+[10:20:54] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[10:20:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.11.0
+[10:20:55] [Server thread/INFO]: [InvSee++_Give] Loading server plugin InvSeePlusPlus_Give v0.30.15
+[10:20:55] [Server thread/INFO]: [InvSee++_Clear] Loading server plugin InvSeePlusPlus_Clear v0.30.15
+[10:20:55] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v23.0
+[10:20:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:20:55] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.4.9
+[10:20:55] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.11.0
+[10:20:56] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is outdated (1.21.11). Installed: 2.4.9 -> Latest: 2.5.3
+[10:20:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[10:20:59] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[10:20:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:20:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:20:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:20:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:20:59] [Server thread/INFO]: Preparing level "Jerusalem"
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.11.0
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 52f31ab
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[10:20:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[10:21:01] [Server thread/INFO]: Loading 128 persistent chunks for world 'minecraft:overworld'...
+[10:21:01] [Server thread/INFO]: Preparing spawn area: 7%
+[10:21:02] [Server thread/INFO]: Preparing spawn area: 7%
+[10:21:02] [Server thread/INFO]: Preparing spawn area: 7%
+[10:21:04] [Server thread/INFO]: Prepared spawn area in 3196 ms
+[10:21:04] [Server thread/INFO]: Loading 30 persistent chunks for world 'minecraft:the_nether'...
+[10:21:04] [Server thread/INFO]: Preparing spawn area: 25%
+[10:21:04] [Server thread/INFO]: Prepared spawn area in 141 ms
+[10:21:04] [Server thread/INFO]: Loading 30 persistent chunks for world 'minecraft:the_end'...
+[10:21:04] [Server thread/INFO]: Preparing spawn area: 25%
+[10:21:05] [Server thread/INFO]: Prepared spawn area in 85 ms
+[10:21:05] [Server thread/INFO]: Done preparing level "Jerusalem" (5.871s)
+[10:21:05] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.31.0
+[10:21:05] [Server thread/INFO]: [InvSee++] Detected server software: Paper version 1.21.11
+[10:21:05] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.30.15
+[10:21:05] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.30.15
+[10:21:05] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.0
+[10:21:05] [Server thread/ERROR]: Error occurred while enabling CoreProtect v23.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.utility.SystemUtils.getProcessorInfo(SystemUtils.java:241) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.config.ConfigHandler.<clinit>(ConfigHandler.java:63) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.CoreProtect.onEnable(CoreProtect.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1260) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native [in thread "ServerMain"]
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35) ~[jna-5.17.0.jar:5.17.0 (b0)]
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$7(SystemReport.java:87) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:95) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:87) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.lambda$new$2(SystemReport.java:61) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:95) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:61) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:32) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.CrashReport.preload(CrashReport.java:223) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.Main.main(Main.java:103) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.craftbukkit.Main.main(Main.java:242) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[?:?]
+	... 1 more
+[10:21:05] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v23.0
+[10:21:05] [Server thread/ERROR]: Error occurred while disabling CoreProtect v23.0
+java.lang.NoClassDefFoundError: Could not initialize class net.coreprotect.config.ConfigHandler
+	at CoreProtect-CE-23.0.jar//net.coreprotect.services.ShutdownService.safeShutdown(ShutdownService.java:42) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.CoreProtect.onDisable(CoreProtect.java:60) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1260) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem [in thread "Server thread"]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.utility.SystemUtils.getProcessorInfo(SystemUtils.java:241) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.config.ConfigHandler.<clinit>(ConfigHandler.java:63) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.CoreProtect.onEnable(CoreProtect.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-46-8e5e54f]
+	... 9 more
+[10:21:05] [Server thread/INFO]: [spark] Starting background profiler...
+[10:21:05] [Server thread/WARN]: [spark] Unable to initialise the async-profiler engine: A runtime error occurred whilst loading the native library (/data/data/com.termux/files/home/mcserver-jerusalem/Minecraft-Server-Paper/plugins/spark/tmp/spark-33b2469fbc7b2-libasyncProfiler.so.tmp: dlopen failed: library "libdl.so.2" not found: needed by /data/data/com.termux/files/home/mcserver-jerusalem/Minecraft-Server-Paper/plugins/spark/tmp/spark-33b2469fbc7b2-libasyncProfiler.so.tmp in namespace (default))
+[10:21:05] [Server thread/WARN]: [spark] Please see here for more information: https://spark.lucko.me/docs/misc/Using-async-profiler
+[10:21:06] [Server thread/INFO]: Running delayed init tasks
+[10:21:06] [Server thread/INFO]: Done (29.965s)! For help, type "help"
+[10:56:31] [User Authenticator #0/INFO]: UUID of player XXKRALTR is 90bac6b6-476b-3392-a069-0b8cbc227186
+[10:56:41] [User Authenticator #0/INFO]: UUID of player XXKRALTR is 90bac6b6-476b-3392-a069-0b8cbc227186
+[10:56:41] [Server thread/INFO]: XXKRALTR lost connection: Disconnected
+[10:56:41] [Server thread/INFO]: XXKRALTR left the game
+[10:56:42] [Server thread/INFO]: XXKRALTR joined the game
+[10:56:42] [Server thread/INFO]: XXKRALTR[/192.168.1.116:50482] logged in with entity id 382 at ([Jerusalem]313.95339338212426, 82.0, -422.67685770334595)
+[10:58:55] [User Authenticator #1/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
+[10:58:56] [Server thread/INFO]: IV_Bauduoin joined the game
+[10:58:56] [Server thread/INFO]: IV_Bauduoin[/192.168.1.116:43768] logged in with entity id 1240 at ([Jerusalem]518.2762592031285, 132.0, -289.4331352018759)
+[10:59:01] [Async Chat Thread - #0/INFO]: [Not Secure] <XXKRALTR> sa
+[10:59:06] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> sa
+[10:59:12] [Async Chat Thread - #0/INFO]: [Not Secure] <XXKRALTR> as
+[10:59:30] [Async Chat Thread - #0/INFO]: [Not Secure] <XXKRALTR> sende bayrak boyama masası var mı
+[10:59:38] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> bakim
+[10:59:47] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> var
+[11:01:24] [Async Chat Thread - #2/INFO]: [Not Secure] <XXKRALTR> bir de kırmızı ve beyaz boya lazım
+[11:01:37] [Async Chat Thread - #2/INFO]: [Not Secure] <IV_Bauduoin> vercem bekle
+[11:01:41] [Async Chat Thread - #2/INFO]: [Not Secure] <XXKRALTR> oky
+[11:01:42] [Async Chat Thread - #2/INFO]: [Not Secure] <IV_Bauduoin> ne kadar lazım
+[11:02:35] [Server thread/INFO]: IV_Bauduoin issued server command: /say ne kadar lazım hocam
+[11:02:35] [Async Chat Thread - #3/INFO]: [Not Secure] [IV_Bauduoin] ne kadar lazım hocam
+[11:02:52] [Async Chat Thread - #4/INFO]: [Not Secure] <XXKRALTR> ver işte 5 10 tane
+[11:02:58] [Async Chat Thread - #4/INFO]: [Not Secure] <IV_Bauduoin> ok
+[11:03:53] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee XXKRALTR
+[11:04:07] [Async Chat Thread - #5/INFO]: [Not Secure] <XXKRALTR> oh oh
+[11:04:14] [Async Chat Thread - #5/INFO]: [Not Secure] <IV_Bauduoin> afied
+[11:06:17] [Async Chat Thread - #7/INFO]: [Not Secure] <XXKRALTR> hocam koyu gri boya var mı
+[11:06:26] [Async Chat Thread - #7/INFO]: [Not Secure] <IV_Bauduoin> yok
+[11:06:34] [Async Chat Thread - #7/INFO]: [Not Secure] <XXKRALTR> oky sıkıntı değil
+[11:06:45] [Async Chat Thread - #8/INFO]: [Not Secure] <IV_Bauduoin> mürekkep balığı öldür mürekkep kesesi ile siyah boya yapılıyo
+[11:06:55] [Async Chat Thread - #8/INFO]: [Not Secure] <IV_Bauduoin> siyah boya ile beyaz boyayı karıştır
+[11:08:01] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:08:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:08:31] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
+[11:08:31] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
+[11:08:45] [Server thread/INFO]: Villager Villager['Fisherman'/84, uuid='ddec4f8c-1507-4ac7-8373-ac8f9453c907', l='ServerLevel[Jerusalem]', x=283.92, y=63.00, z=-449.30, cpos=[17, -29], tl=12409, v=true] died, message: 'Fisherman was slain by Zombie'
+[11:09:33] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:09:35] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:13:05] [Async Chat Thread - #9/INFO]: [Not Secure] <IV_Bauduoin> nerdesin abi
+[11:13:16] [Async Chat Thread - #9/INFO]: [Not Secure] <XXKRALTR> İSTASYONDAYIM
+[11:16:10] [Async Chat Thread - #11/INFO]: [Not Secure] <XXKRALTR> sancak nasıl yapılıyo
+[11:16:15] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:nautilus
+[11:16:15] [Server thread/INFO]: [IV_Bauduoin: Summoned new Nautilus]
+[11:16:26] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:nautilus
+[11:16:26] [Server thread/INFO]: [IV_Bauduoin: Summoned new Nautilus]
+[11:16:34] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:zombie_nautilus
+[11:16:34] [Server thread/INFO]: [IV_Bauduoin: Summoned new Zombie Nautilus]
+[11:16:49] [Server thread/INFO]: IV_Bauduoin issued server command: /summon minecraft:nautilus
+[11:16:49] [Server thread/INFO]: [IV_Bauduoin: Summoned new Nautilus]
+[11:21:29] [Server thread/INFO]: XXKRALTR was slain by Zombie
+[11:21:50] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:21:53] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:22:47] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:22:49] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:24:36] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
+[11:24:36] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
+[11:26:40] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:fortress
+[11:26:40] [Server thread/INFO]: Locating element minecraft:fortress took 8 ms
+[11:27:01] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:28:34] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:28:56] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:fortress
+[11:28:56] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
+[11:28:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:29:02] [Server thread/INFO]: IV_Bauduoin issued server command: /tp @s 464 ~ -432
+[11:29:02] [Server thread/INFO]: [IV_Bauduoin: Teleported IV_Bauduoin to 464.500000, 189.962297, -431.500000]
+[11:29:09] [Server thread/INFO]: XXKRALTR lost connection: Disconnected
+[11:29:09] [Server thread/INFO]: XXKRALTR left the game
+[11:29:37] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:29:47] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:30:04] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:30:06] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:30:11] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:30:27] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:30:31] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:30:38] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:31:06] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:31:12] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:31:55] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:32:23] [Server thread/INFO]: IV_Bauduoin burned to death
+[11:33:07] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:33:13] [Server thread/INFO]: IV_Bauduoin issued server command: /tp 0 ~ 0
+[11:33:14] [Server thread/INFO]: [IV_Bauduoin: Teleported IV_Bauduoin to 0.500000, 64.000000, 0.500000]
+[11:33:25] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:34:49] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:34:51] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[11:34:58] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:35:00] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:36:11] [Server thread/INFO]: IV_Bauduoin has completed the challenge [Smithing with Style]
+[11:42:27] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
+[11:42:55] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
+[11:46:11] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:46:14] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:46:35] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
+[12:34:53] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
+[12:34:53] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
+[12:34:57] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
+[12:35:14] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:35:45] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:39:25] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:39:36] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:40:48] [Server thread/INFO]: IV_Bauduoin issued server command: /gamerule random_tick_speed
+[12:40:51] [Server thread/INFO]: IV_Bauduoin issued server command: /gamerule random_tick_speed 3
+[12:40:51] [Server thread/INFO]: [IV_Bauduoin: Gamerule random_tick_speed is now set to: 3]
+[12:42:33] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:42:37] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:42:40] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:42:43] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:45:23] [Server thread/INFO]: IV_Bauduoin issued server command: /give IV_Bauduoin minecraft:composter
+[12:45:23] [Server thread/INFO]: [IV_Bauduoin: Gave 1 [Composter] to IV_Bauduoin]
+[12:46:07] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[12:46:10] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:47:05] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[12:47:07] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:51:26] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:51:33] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:51:47] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:51:54] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[12:52:09] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:52:47] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:52:51] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:53:27] [Server thread/INFO]: IV_Bauduoin issued server command: /give IV_Bauduoin minecraft:powder_snow_bucket
+[12:53:27] [Server thread/INFO]: [IV_Bauduoin: Gave 1 [Powder Snow Bucket] to IV_Bauduoin]
+[12:53:33] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:53:43] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:53:51] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[12:54:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:54:10] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:54:14] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[12:54:19] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:54:22] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[12:54:24] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:54:53] [Server thread/INFO]: IV_Bauduoin issued server command: /give IV_Bauduoin minecraft:powder_snow_bucket
+[12:54:53] [Server thread/INFO]: [IV_Bauduoin: Gave 1 [Powder Snow Bucket] to IV_Bauduoin]
+[12:56:04] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[12:56:09] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[12:56:14] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Creative Mode]
+[12:56:23] [Server thread/INFO]: IV_Bauduoin issued server command: /give IV_Bauduoin minecraft:powder_snow_bucket
+[12:56:23] [Server thread/INFO]: [IV_Bauduoin: Gave 1 [Powder Snow Bucket] to IV_Bauduoin]
+[12:56:36] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[13:18:04] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[13:18:08] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[13:20:27] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[13:20:30] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[13:20:31] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[13:20:36] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[13:44:06] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
+[13:44:06] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
+[13:44:27] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[13:44:43] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[13:44:58] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
+[13:44:58] [Server thread/INFO]: IV_Bauduoin left the game
+[15:16:17] [Server thread/INFO]: Stopping the server
+[15:16:17] [Server thread/INFO]: Stopping server
+[15:16:17] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
+[15:16:17] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
+[15:16:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.11.0
+[15:16:17] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
+[15:16:17] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
+[15:16:17] [Server thread/INFO]: Saving players
+[15:16:17] [Server thread/INFO]: Saving worlds
+[15:16:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 343 entity chunks, 0 poi chunks in world 'Jerusalem' in 0.33s
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
+[15:16:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
+[15:16:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 142 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0.20s
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
+[15:16:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 30 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0.03s
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
+[15:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
+[15:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
+[15:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:16:18] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:16:18] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[15:16:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:16:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
