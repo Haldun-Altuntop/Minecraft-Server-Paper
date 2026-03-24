@@ -40,3 +40,9 @@ Spectator Name: IV_Bauduoin
 Taken         : []
 Given         : [RED_DYE x 64, WHITE_DYE x 54]
 Target        : XXKRALTR
+[2026-03-24 16:28:18] [INFO]:
+Spectator UUID: 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
+Spectator Name: IV_Bauduoin
+Taken         : [NETHERITE_HOE & UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={minecraft:efficiency=5, minecraft:mending=1, minecraft:unbreaking=3}, repair-cost=7} x 1]
+Given         : []
+Target        : IV_Bauduoin
