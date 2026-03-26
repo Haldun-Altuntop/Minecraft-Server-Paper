@@ -1,43 +1,54 @@
-[09:52:06] [Server thread/INFO]: Stopping the server
-[09:52:06] [Server thread/INFO]: Stopping server
-[09:52:06] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
-[09:52:06] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
-[09:52:06] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.11.0
-[09:52:06] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
-[09:52:06] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.5-SNAPSHOT
-[09:52:06] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[09:52:06] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[09:52:06] [WebSocketConnectReadThread-1741/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[09:52:06] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
-[09:52:06] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b125-a772911)
-[09:52:06] [Server thread/INFO]: Saving players
-[09:52:06] [Server thread/INFO]: Saving worlds
-[09:52:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
-[09:52:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
-[09:52:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
-[09:52:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Saved 11 block chunks, 209 entity chunks, 0 poi chunks in world 'Jerusalem' in 0.18s
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
-[09:52:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 143 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0.08s
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
-[09:52:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0.00s
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
-[09:52:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
-[09:52:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
-[09:52:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:52:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:52:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09:52:07] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[09:52:07] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[09:52:07] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[09:52:07] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[10:56:30] [User Authenticator #0/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
+[10:56:53] [Server thread/INFO]: IV_Bauduoin joined the game
+[10:56:53] [Server thread/INFO]: IV_Bauduoin[/192.168.1.116:38222] logged in with entity id 1985 at ([Jerusalem]496.2155533675108, 121.0, -303.7054561191564)
+[10:58:06] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[10:58:11] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[10:59:04] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
+[11:04:16] [Server thread/INFO]: IV_Bauduoin issued server command: /gamerule random_tick_speed
+[11:04:21] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
+[11:04:33] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
+[11:14:42] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
+[11:14:42] [Server thread/INFO]: IV_Bauduoin left the game
+[11:16:17] [Server thread/INFO]: Stopping the server
+[11:16:17] [Server thread/INFO]: Stopping server
+[11:16:17] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
+[11:16:17] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
+[11:16:17] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.11.0
+[11:16:17] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
+[11:16:17] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.5-SNAPSHOT
+[11:16:17] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[11:16:17] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[11:16:17] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
+[11:16:17] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b125-a772911)
+[11:16:17] [WebSocketConnectReadThread-1524/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[11:16:18] [Server thread/INFO]: Saving players
+[11:16:18] [Server thread/INFO]: Saving worlds
+[11:16:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Saved 26 block chunks, 215 entity chunks, 0 poi chunks in world 'Jerusalem' in 0.13s
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
+[11:16:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 24 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0.03s
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
+[11:16:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0.01s
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
+[11:16:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
+[11:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
+[11:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:16:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:16:18] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[11:16:18] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[11:16:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[11:16:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
