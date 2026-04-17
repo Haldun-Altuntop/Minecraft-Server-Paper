@@ -1,121 +1,43 @@
-[11:04:14] [User Authenticator #1/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
-[11:04:45] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
-[11:04:45] [Server thread/INFO]: IV_Bauduoin left the game
-[11:05:27] [User Authenticator #1/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
-[11:05:28] [Server thread/INFO]: IV_Bauduoin joined the game
-[11:05:28] [Server thread/INFO]: IV_Bauduoin[/192.168.1.116:54652] logged in with entity id 53044 at ([Jerusalem]518.2914466106944, 132.0, -299.520375259198)
-[11:05:42] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
-[11:09:05] [Server thread/INFO]: Gave 1 [Shulker Box] to IV_Bauduoin
-[11:11:04] [Server thread/INFO]: IV_Bauduoin issued server command: /tps
-[11:14:07] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:14:12] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:15:13] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee 2le_Tabi
-[11:15:19] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/chain' in progress file ./Jerusalem/advancements/84284cb0-d682-3f32-979b-c71cbcf1f74f.json - it doesn't exist anymore?
-[11:15:21] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee APRILIKUKA
-[11:15:23] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/chain' in progress file ./Jerusalem/advancements/27886007-5894-376b-92c6-65e017ae15a1.json - it doesn't exist anymore?
-[11:15:27] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee asdastryu
-[11:17:07] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:17:09] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:18:25] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee AzraiLazzz
-[11:18:26] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/chain' in progress file ./Jerusalem/advancements/4cb7a81b-4dce-31a2-b6de-ae53dcb826cd.json - it doesn't exist anymore?
-[11:18:30] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee Kasin1235
-[11:18:46] [Server thread/INFO]: IV_Bauduoin issued server command: /invsee Kasin1235
-[11:19:16] [Server thread/INFO]: IV_Bauduoin issued server command: /endersee Kasin1235
-[11:25:53] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 578 113 -353 595 113 -329 dirt
-[11:25:53] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 414 block(s)]
-[11:26:05] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 578 113 -353 595 111 -329 dirt
-[11:26:05] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 761 block(s)]
-[11:26:11] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:26:17] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:26:41] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 578 109 -353 595 109 -329 dirt
-[11:26:41] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 196 block(s)]
-[11:31:20] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 578 109 -353 595 109 -329 air
-[11:31:20] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 450 block(s)]
-[11:39:53] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:39:54] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:40:03] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:40:14] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 578 109 -353 595 109 -329 dirt
-[11:40:14] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 450 block(s)]
-[11:40:38] [Server thread/INFO]: IV_Bauduoin issued server command: /fill 578 110 -353 595 110 -329 dirt
-[11:40:38] [Server thread/INFO]: [IV_Bauduoin: Successfully filled 186 block(s)]
-[11:40:41] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:41:10] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:41:11] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:41:14] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:41:18] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:41:29] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:41:36] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:41:54] [Server thread/INFO]: IV_Bauduoin issued server command: /time set day
-[11:41:54] [Server thread/INFO]: [IV_Bauduoin: Set the time to 1000]
-[11:53:04] [Async Chat Thread - #0/INFO]: [Not Secure] <IV_Bauduoin> 1086 -332
-[11:53:12] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:end_city
-[11:53:12] [Server thread/INFO]: Locating element minecraft:end_city took 66 ms
-[11:54:28] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[11:54:51] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[11:55:39] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:end_city
-[11:55:39] [Server thread/INFO]: Locating element minecraft:end_city took 44 ms
-[11:56:11] [Server thread/INFO]: IV_Bauduoin issued server command: /locate structure minecraft:end_city
-[11:56:11] [Server thread/INFO]: Locating element minecraft:end_city took 101 ms
-[11:59:59] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[12:00:05] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[12:00:43] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[12:00:47] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[12:01:13] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[12:01:17] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[12:01:31] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Spectator Mode]
-[12:01:44] [Server thread/INFO]: [IV_Bauduoin: Set own game mode to Survival Mode]
-[12:46:04] [Server thread/INFO]: IV_Bauduoin issued server command: /attribute IV_Bauduoin minecraft:block_break_speed base set 4
-[12:56:01] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
-[12:56:01] [Server thread/INFO]: IV_Bauduoin left the game
-[13:40:00] [User Authenticator #2/INFO]: UUID of player IV_Bauduoin is 164ac6c4-3a50-33f5-87cf-d88fb08d69f9
-[13:40:01] [Server thread/INFO]: IV_Bauduoin joined the game
-[13:40:01] [Server thread/INFO]: IV_Bauduoin[/192.168.1.116:59516] logged in with entity id 72919 at ([Jerusalem]494.35047975771795, 106.0625, -306.00186379739927)
-[13:52:17] [Server thread/INFO]: IV_Bauduoin issued server command: /attribute IV_Bauduoin minecraft:block_break_speed base reset
-[13:54:50] [Server thread/WARN]: IV_Bauduoin moved wrongly!
-[14:06:52] [Server thread/INFO]: IV_Bauduoin issued server command: /locate biome minecraft:old_growth_spruce_taiga
-[14:06:54] [Server thread/INFO]: Locating element minecraft:old_growth_spruce_taiga took 2081 ms
-[14:37:58] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
-[14:37:58] [Server thread/INFO]: IV_Bauduoin left the game
-[14:38:10] [Server thread/INFO]: Stopping the server
-[14:38:10] [Server thread/INFO]: Stopping server
-[14:38:10] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
-[14:38:10] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
-[14:38:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
-[14:38:10] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
-[14:38:10] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.5-SNAPSHOT
-[14:38:10] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[14:38:11] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[14:38:11] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
-[14:38:11] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b125-a772911)
-[14:38:11] [WebSocketConnectReadThread-931/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[14:38:11] [Server thread/INFO]: Saving players
-[14:38:11] [Server thread/INFO]: Saving worlds
-[14:38:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Saved 82 block chunks, 374 entity chunks, 0 poi chunks in world 'Jerusalem' in 0.33s
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
-[14:38:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Saved 27 block chunks, 175 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0.12s
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
-[14:38:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 27 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0.04s
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
-[14:38:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
-[14:38:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
-[14:38:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:38:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:38:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:38:11] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[14:38:11] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[14:38:11] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[14:38:11] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[20:46:13] [Server thread/INFO]: Stopping the server
+[20:46:13] [Server thread/INFO]: Stopping server
+[20:46:13] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
+[20:46:13] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
+[20:46:13] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
+[20:46:14] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
+[20:46:14] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.5-SNAPSHOT
+[20:46:14] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[20:46:14] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[20:46:14] [WebSocketConnectReadThread-3166/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[20:46:14] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
+[20:46:14] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b125-a772911)
+[20:46:14] [Server thread/INFO]: Saving players
+[20:46:14] [Server thread/INFO]: Saving worlds
+[20:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 208 entity chunks, 0 poi chunks in world 'Jerusalem' in 0.19s
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
+[20:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 21 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0.03s
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
+[20:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0.01s
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
+[20:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
+[20:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
+[20:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:46:14] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[20:46:14] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[20:46:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[20:46:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
