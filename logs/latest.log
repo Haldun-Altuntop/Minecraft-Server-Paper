@@ -1,47 +1,562 @@
-[00:19:00] [Server thread/INFO]: IV_Bauduoin issued server command: /locate biome minecraft:dark_forest
-[00:19:00] [Server thread/INFO]: Locating element minecraft:dark_forest took 445 ms
-[00:34:38] [Server thread/INFO]: IV_Bauduoin lost connection: Disconnected
-[00:34:38] [Server thread/INFO]: IV_Bauduoin left the game
-[01:18:01] [Server thread/INFO]: Stopping the server
-[01:18:01] [Server thread/INFO]: Stopping server
-[01:18:01] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
-[01:18:01] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
-[01:18:01] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
-[01:18:02] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
-[01:18:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.5-SNAPSHOT
-[01:18:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:18:02] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:18:02] [WebSocketConnectReadThread-162/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:18:02] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
-[01:18:02] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b125-a772911)
-[01:18:02] [Server thread/INFO]: Saving players
-[01:18:02] [Server thread/INFO]: Saving worlds
-[01:18:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Saved 12 block chunks, 207 entity chunks, 0 poi chunks in world 'Jerusalem' in 0.18s
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem'
-[01:18:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_nether]'/minecraft:the_nether
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_nether'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_nether'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_nether'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 21 entity chunks, 0 poi chunks in world 'Jerusalem_nether' in 0.02s
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_nether'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_nether'
-[01:18:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem_the_end]'/minecraft:the_end
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Jerusalem_the_end'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Jerusalem_the_end'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Jerusalem_the_end'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'Jerusalem_the_end' in 0.01s
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Jerusalem_the_end'
-[01:18:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Jerusalem_the_end'
-[01:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (Jerusalem): All chunks are saved
-[01:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:18:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:18:02] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[01:18:02] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[01:18:02] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:18:02] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[22:47:48] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3; Termux null) on Linux 5.15.189-android13-3-33478785 (aarch64)
+[22:47:48] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-72-ver/26.1.2@1a6b910 (2026-06-19T13:08:47Z) for Minecraft 26.1.2
+[22:47:48] [ServerMain/WARN]: [oshi.software.os.linux.LinuxOperatingSystem] Did not find udev library in operating system. Some features may not work.
+[22:47:48] [ServerMain/ERROR]: [oshi.software.os.linux.LinuxOperatingSystem] Did not JNA classes. Investigate incompatible version or missing native dll.
+[22:47:48] [ServerMain/WARN]: Failed retrieving info for group processor
+java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35) ~[jna-5.18.1.jar:5.18.1 (b0)]
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:101) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:101) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:64) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:64) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:32) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.CrashReport.preload(CrashReport.java:219) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.Main.main(Main.java:102) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.Main.main(Main.java:204) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.UnsatisfiedLinkError: /data/data/com.termux/files/home/.cache/JNA/temp/jna11591712521733476052.tmp: dlopen failed: library "libc.so.6" not found: needed by /data/data/com.termux/files/home/.cache/JNA/temp/jna11591712521733476052.tmp in namespace (default) [in thread "ServerMain"]
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method) ~[?:?]
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:321) ~[?:?]
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:187) ~[?:?]
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:129) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2245) ~[?:?]
+	at java.base/java.lang.Runtime.load0(Runtime.java:767) ~[?:?]
+	at java.base/java.lang.System.load(System.java:1647) ~[?:?]
+	at com.sun.jna.Native.loadNativeDispatchLibraryFromClasspath(Native.java:1041) ~[jna-5.18.1.jar:5.18.1 (b0)]
+	at com.sun.jna.Native.loadNativeDispatchLibrary(Native.java:1011) ~[jna-5.18.1.jar:5.18.1 (b0)]
+	at com.sun.jna.Native.<clinit>(Native.java:221) ~[jna-5.18.1.jar:5.18.1 (b0)]
+	at com.sun.jna.platform.linux.Udev.<clinit>(Udev.java:37) ~[jna-platform-5.17.0.jar:5.17.0 (b0)]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:93) ~[oshi-core-6.9.0.jar:6.9.0]
+	... 19 more
+[22:47:48] [ServerMain/WARN]: Failed retrieving info for group memory
+java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem
+	at oshi.hardware.platform.linux.LinuxGlobalMemory.<clinit>(LinuxGlobalMemory.java:28) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createMemory(LinuxHardwareAbstractionLayer.java:38) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getMemory(AbstractHardwareAbstractionLayer.java:60) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$2(SystemReport.java:103) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:103) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:64) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:64) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:32) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.CrashReport.preload(CrashReport.java:219) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.Main.main(Main.java:102) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.Main.main(Main.java:204) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native [in thread "ServerMain"]
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35) ~[jna-5.18.1.jar:5.18.1 (b0)]
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:101) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:101) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	... 10 more
+[22:47:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:47:50] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[22:47:50] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Veinminer (2.4.9)
+[22:47:50] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - CoreProtect (23.0), Geyser-Spigot (2.9.5-SNAPSHOT), InvSeePlusPlus (0.31.0), InvSeePlusPlus_Clear (0.30.15), InvSeePlusPlus_Give (0.30.15), SkinsRestorer (15.12.0), floodgate (2.2.5-SNAPSHOT (b125-a772911))
+[22:47:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:47:59] [ServerMain/WARN]: [WorldFolderMigration] ===================== ! ALERT ! =====================
+[22:47:59] [ServerMain/WARN]: [WorldFolderMigration] World storage migration is required during startup.
+[22:47:59] [ServerMain/WARN]: [WorldFolderMigration] If you do not have a backup: interrupt the server now. Use Ctrl+C, your panel kill function, etc.
+[22:47:59] [ServerMain/WARN]: [WorldFolderMigration] =====================================================
+[22:47:59] [ServerMain/WARN]: [WorldFolderMigration] Continuing in 30 seconds...
+[22:48:29] [ServerMain/INFO]: [WorldFolderMigration] Continuing with startup world migration.
+[22:48:29] [ServerMain/INFO]: Starting upgrade for world "Jerusalem"
+[22:48:29] [ServerMain/INFO]: Upgrading progress: 2%
+[22:48:29] [ServerMain/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=false]
+[22:48:29] [ServerMain/INFO]: Applying file structure changes for world "Jerusalem"
+[22:48:29] [ServerMain/INFO]: Moving files into new file structure
+[22:48:29] [ServerMain/INFO]: Moving new world to top level
+[22:48:29] [ServerMain/INFO]: Complete move
+[22:48:29] [ServerMain/INFO]: Start cleanup
+[22:48:29] [ServerMain/INFO]: Moving out old world folder
+[22:48:29] [ServerMain/INFO]: Moving in new world folder
+[22:48:29] [ServerMain/INFO]: Done applying file structure changes for world "Jerusalem". Cleaning up outdated data...
+[22:48:29] [ServerMain/INFO]: Upgrade done for world "Jerusalem"
+[22:48:31] [Worker-Main-1/INFO]: [VanillaWorldMigration] Starting Vanilla import for world 'Jerusalem' (minecraft:overworld)
+[22:48:31] [Worker-Main-1/INFO]: [WorldMigrationSupport] Migrating Paper world config from ./Jerusalem/paper-world.yml to ./Jerusalem/dimensions/minecraft/overworld/paper-world.yml
+[22:48:31] [Worker-Main-1/INFO]: [VanillaWorldMigration] Completed Vanilla import for world 'Jerusalem' (minecraft:overworld)
+[22:48:32] [ServerMain/INFO]: Loaded 1515 recipes
+[22:48:32] [ServerMain/INFO]: Loaded 1617 advancements
+[22:48:32] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[22:48:33] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 740.8ms
+[22:48:33] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[22:48:33] [Server thread/INFO]: Loading properties
+[22:48:34] [Server thread/INFO]: This server is running Paper version 26.1.2-72-ver/26.1.2@1a6b910 (2026-06-19T13:08:47Z) (Implementing API version 26.1.2.build.72-stable)
+[22:48:34] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:48:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:48:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:48:34] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[22:48:35] [Server thread/INFO]: Default game type: SURVIVAL
+[22:48:35] [Server thread/INFO]: Generating keypair
+[22:48:35] [Server thread/INFO]: Starting Minecraft server on 192.168.0.77:25565
+[22:48:35] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[22:48:35] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[22:48:35] [Server thread/WARN]: [io.netty.util.internal.MacAddressUtil] Failed to find a usable hardware address from the network interfaces; using random bytes: a7:5d:b9:5f:78:34:f0:9a
+[22:48:36] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b125-a772911)
+[22:48:37] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:48:37] [Server thread/INFO]: [floodgate] Took 1,526ms to boot Floodgate
+[22:48:37] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.31.0
+[22:48:37] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.5-SNAPSHOT
+[22:48:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:48:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:48:38] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.4.9
+[22:48:38] [Server thread/INFO]: [Veinminer] Detected platform: Paper
+[22:48:38] [Server thread/ERROR]: [Veinminer] Error initializing plugin 'veinminer-paper-2.4.9.jar' in folder 'plugins' (Is it up to date?)
+java.lang.IllegalStateException: The CommandAPI's NMS hook failed to load! This version of the CommandAPI is Mojang-mapped. Have you checked that you are using a CommandAPI version that matches the mappings that your plugin is using?
+	at dev.jorel.commandapi.CommandAPIVersionHandler.getPlatform(CommandAPIVersionHandler.java:102) ~[?:?]
+	at dev.jorel.commandapi.CommandAPI.onLoad(CommandAPI.java:112) ~[?:?]
+	at veinminer-paper-2.4.9.jar//de.miraculixx.veinminer.Veinminer.load(Veinminer.kt:42) ~[?:?]
+	at de.miraculixx.kpaper.main.KPaper.onLoad(KSpigot.kt:57) ~[?:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:553) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:336) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: dev.jorel.commandapi.exceptions.UnsupportedVersionException: This version of Minecraft is unsupported: 26.1.2.build.72
+	at dev.jorel.commandapi.CommandAPIVersionHandler.getPlatform(CommandAPIVersionHandler.java:94) ~[?:?]
+	... 12 more
+[22:48:38] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.0
+[22:48:38] [Server thread/INFO]: [InvSee++_Give] Loading server plugin InvSeePlusPlus_Give v0.30.15
+[22:48:38] [Server thread/INFO]: [InvSee++_Clear] Loading server plugin InvSeePlusPlus_Clear v0.30.15
+[22:48:38] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v23.0
+[22:48:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:48:38] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.4.9
+[22:48:38] [Server thread/ERROR]: Error occurred while enabling Veinminer v2.4.9 (Is it up to date?)
+java.lang.IllegalStateException: Tried to access CommandAPIHandler instance, but it was null! Are you using CommandAPI features before calling CommandAPI#onLoad?
+	at dev.jorel.commandapi.CommandAPIHandler.getInstance(CommandAPIHandler.java:173) ~[?:?]
+	at dev.jorel.commandapi.CommandAPI.onEnable(CommandAPI.java:154) ~[?:?]
+	at veinminer-paper-2.4.9.jar//de.miraculixx.veinminer.Veinminer.startup(Veinminer.kt:49) ~[?:?]
+	at de.miraculixx.kpaper.main.KPaper.onEnable(KSpigot.kt:61) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:337) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[22:48:38] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.4.9
+[22:48:38] [Server thread/ERROR]: Error occurred while disabling Veinminer v2.4.9
+java.lang.IllegalStateException: Tried to access CommandAPIHandler instance, but it was null! Are you using CommandAPI features before calling CommandAPI#onLoad?
+	at dev.jorel.commandapi.CommandAPIHandler.getInstance(CommandAPIHandler.java:173) ~[?:?]
+	at dev.jorel.commandapi.CommandAPI.unregister(CommandAPI.java:288) ~[?:?]
+	at veinminer-paper-2.4.9.jar//de.miraculixx.veinminer.Veinminer.shutdown(Veinminer.kt:81) ~[?:?]
+	at de.miraculixx.kpaper.main.KPaper.onDisable(KSpigot.kt:65) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:242) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:211) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:337) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[22:48:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.0
+[22:48:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
+[22:48:40] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[22:48:41] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:48:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:48:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:48:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:48:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:48:41] [Server thread/INFO]: Preparing level "Jerusalem"
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.0
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 2903414
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.12.3) is available! Downloading update...
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[22:48:41] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[22:48:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1042ms
+[22:48:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[22:48:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[22:48:43] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Starting legacy CraftBukkit import for world 'Jerusalem_nether' (minecraft:the_nether)
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./Jerusalem_nether/DIM-1/region to ./Jerusalem/dimensions/minecraft/the_nether/region
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./Jerusalem_nether/DIM-1/entities to ./Jerusalem/dimensions/minecraft/the_nether/entities
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./Jerusalem_nether/DIM-1/poi to ./Jerusalem/dimensions/minecraft/the_nether/poi
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating Paper world config from ./Jerusalem_nether/paper-world.yml to ./Jerusalem/dimensions/minecraft/the_nether/paper-world.yml
+[22:48:43] [Server thread/INFO]: Starting upgrade for world "Jerusalem_nether"
+[22:48:43] [Server thread/INFO]: Upgrading progress: 2%
+[22:48:43] [Server thread/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=false]
+[22:48:43] [Server thread/INFO]: Applying file structure changes for world "Jerusalem_nether"
+[22:48:43] [Server thread/INFO]: Moving files into new file structure
+[22:48:43] [Server thread/INFO]: Moving new world to top level
+[22:48:43] [Server thread/INFO]: Complete move
+[22:48:43] [Server thread/INFO]: Start cleanup
+[22:48:43] [Server thread/INFO]: Moving out old world folder
+[22:48:43] [Server thread/INFO]: Moving in new world folder
+[22:48:43] [Server thread/INFO]: Done applying file structure changes for world "Jerusalem_nether". Cleaning up outdated data...
+[22:48:43] [Server thread/INFO]: Upgrade done for world "Jerusalem_nether"
+[22:48:43] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Completed legacy CraftBukkit import for world 'Jerusalem_nether' (minecraft:the_nether)
+[22:48:43] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Starting legacy CraftBukkit import for world 'Jerusalem_the_end' (minecraft:the_end)
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./Jerusalem_the_end/DIM1/region to ./Jerusalem/dimensions/minecraft/the_end/region
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./Jerusalem_the_end/DIM1/entities to ./Jerusalem/dimensions/minecraft/the_end/entities
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./Jerusalem_the_end/DIM1/poi to ./Jerusalem/dimensions/minecraft/the_end/poi
+[22:48:43] [Server thread/INFO]: [WorldMigrationSupport] Migrating Paper world config from ./Jerusalem_the_end/paper-world.yml to ./Jerusalem/dimensions/minecraft/the_end/paper-world.yml
+[22:48:43] [Server thread/INFO]: Starting upgrade for world "Jerusalem_the_end"
+[22:48:43] [Server thread/INFO]: Upgrading progress: 2%
+[22:48:43] [Server thread/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=false]
+[22:48:43] [Server thread/INFO]: Applying file structure changes for world "Jerusalem_the_end"
+[22:48:43] [Server thread/INFO]: Moving files into new file structure
+[22:48:43] [Server thread/INFO]: Moving new world to top level
+[22:48:43] [Server thread/INFO]: Complete move
+[22:48:43] [Server thread/INFO]: Start cleanup
+[22:48:43] [Server thread/INFO]: Moving out old world folder
+[22:48:43] [Server thread/INFO]: Moving in new world folder
+[22:48:43] [Server thread/INFO]: Done applying file structure changes for world "Jerusalem_the_end". Cleaning up outdated data...
+[22:48:43] [Server thread/INFO]: Upgrade done for world "Jerusalem_the_end"
+[22:48:43] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Completed legacy CraftBukkit import for world 'Jerusalem_the_end' (minecraft:the_end)
+[22:48:44] [Server thread/INFO]: Loading 128 persistent chunks for level 'minecraft:overworld'...
+[22:48:44] [Server thread/INFO]: Preparing spawn area: 7%
+[22:48:44] [Server thread/INFO]: Preparing spawn area: 7%
+[22:48:45] [Server thread/INFO]: Preparing spawn area: 7%
+[22:48:47] [Server thread/INFO]: Prepared spawn area in 3127 ms
+[22:48:47] [Server thread/INFO]: Loading 30 persistent chunks for level 'minecraft:the_nether'...
+[22:48:47] [Server thread/INFO]: Preparing spawn area: 25%
+[22:48:47] [Server thread/INFO]: Prepared spawn area in 210 ms
+[22:48:47] [Server thread/INFO]: Loading 30 persistent chunks for level 'minecraft:the_end'...
+[22:48:47] [Server thread/INFO]: Preparing spawn area: 25%
+[22:48:47] [Server thread/INFO]: Prepared spawn area in 99 ms
+[22:48:47] [Server thread/INFO]: Done preparing level "Jerusalem" (6.222s)
+[22:48:47] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b125-a772911)
+[22:48:47] [Server thread/ERROR]: Error occurred while enabling floodgate v2.2.5-SNAPSHOT (b125-a772911) (Is it up to date?)
+org.geysermc.floodgate.shadow.com.google.inject.CreationException: Unable to create injector, see the following errors:
+
+1) [Guice/ErrorInCustomProvider]: ExceptionInInitializerError
+  at SpigotCommandModule.commandManager(SpigotCommandModule.java:59)
+      \_ installed by: PostInitializeModule -> SpigotCommandModule
+  while locating CommandManager<UserAudience>
+  at CommandRegister.<init>(CommandRegister.java:48)
+  at floodgate-spigot.jar//CommandModule.configure(CommandModule.java:42)
+      \_ installed by: PostInitializeModule -> SpigotCommandModule
+  while locating CommandRegister
+
+Learn more:
+  https://github.com/google/guice/wiki/ERROR_IN_CUSTOM_PROVIDER
+
+1 error
+
+======================
+Full classname legend:
+======================
+CommandManager:              "org.geysermc.floodgate.shadow.org.incendo.cloud.CommandManager"
+CommandModule:               "org.geysermc.floodgate.module.CommandModule"
+CommandRegister:             "org.geysermc.floodgate.register.CommandRegister"
+PostInitializeModule:        "org.geysermc.floodgate.module.PostInitializeModule"
+SpigotCommandModule:         "org.geysermc.floodgate.module.SpigotCommandModule"
+UserAudience:                "org.geysermc.floodgate.player.UserAudience"
+========================
+End of classname legend:
+========================
+
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.Errors.throwCreationExceptionIfErrorsExist(Errors.java:589) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalInjectorCreator.injectDynamically(InternalInjectorCreator.java:190) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalInjectorCreator.build(InternalInjectorCreator.java:113) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InjectorImpl.createChildInjector(InjectorImpl.java:240) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InjectorImpl.createChildInjector(InjectorImpl.java:245) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:76) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:673) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:382) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.org.incendo.cloud.bukkit.parser.ItemStackParser.<init>(ItemStackParser.java:121) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.org.incendo.cloud.bukkit.parser.ItemStackParser.itemStackParser(ItemStackParser.java:83) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.org.incendo.cloud.bukkit.BukkitParsers.register(BukkitParsers.java:75) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.org.incendo.cloud.bukkit.BukkitCommandManager.<init>(BukkitCommandManager.java:99) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.org.incendo.cloud.paper.LegacyPaperCommandManager.<init>(LegacyPaperCommandManager.java:92) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.module.SpigotCommandModule.commandManager(SpigotCommandModule.java:61) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.module.SpigotCommandModule$$FastClassByGuice$$1432a7b.GUICE$TRAMPOLINE(<generated>) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.module.SpigotCommandModule$$FastClassByGuice$$1432a7b.apply(<generated>) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.ProviderMethod$FastClassProviderMethod.doProvision(ProviderMethod.java:260) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.ProviderMethod.doProvision(ProviderMethod.java:171) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalProviderInstanceBindingImpl$CyclicFactory.provision(InternalProviderInstanceBindingImpl.java:185) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalProviderInstanceBindingImpl$CyclicFactory.get(InternalProviderInstanceBindingImpl.java:162) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:40) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.SingletonScope$1.get(SingletonScope.java:169) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InjectorImpl$1.get(InjectorImpl.java:1148) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InjectorImpl.getInstance(InjectorImpl.java:1181) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.register.CommandRegister.<init>(CommandRegister.java:49) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.register.CommandRegister$$FastClassByGuice$$1a97bb8.GUICE$TRAMPOLINE(<generated>) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.register.CommandRegister$$FastClassByGuice$$1a97bb8.apply(<generated>) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.DefaultConstructionProxyFactory$FastClassProxy.newInstance(DefaultConstructionProxyFactory.java:82) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:114) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:91) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:300) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:40) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.SingletonScope$1.get(SingletonScope.java:169) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:45) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalInjectorCreator.loadEagerSingletons(InternalInjectorCreator.java:213) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.com.google.inject.internal.InternalInjectorCreator.injectDynamically(InternalInjectorCreator.java:186) ~[?:?]
+	... 16 more
+Caused by: java.lang.IllegalArgumentException: Couldn't find createItemStack method on ItemInput
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.org.incendo.cloud.bukkit.internal.CraftBukkitReflection.firstNonNullOrThrow(CraftBukkitReflection.java:125) ~[?:?]
+	at floodgate-spigot.jar//org.geysermc.floodgate.shadow.org.incendo.cloud.bukkit.parser.ItemStackParser$ModernParser.<clinit>(ItemStackParser.java:158) ~[?:?]
+	... 45 more
+[22:48:47] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b125-a772911)
+[22:48:48] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.31.0
+[22:48:48] [Server thread/INFO]: [InvSee++] Detected server software: Paper version null
+[22:48:48] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus v0.31.0 (Is it up to date?)
+java.lang.RuntimeException: Paper version 26.1.2-72-1a6b910 (MC: 26.1.2) is not supported by this release of InvSee++. Please use one of the following Paper versions: [1.20.1, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.4, 1.21.5, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11]. Alternatively you can try upgrading InvSee++ if any of the versions listed here is older than your server's Minecraft version. InvSee++ is available on SpigotMC (recommended): https://www.spigotmc.org/resources/invsee.82342/ and on GitHub: https://github.com/Jannyboy11/InvSee-plus-plus/releases
+	at InvSee++.jar//com.janboerman.invsee.spigot.Setup.setup(Setup.java:38) ~[?:?]
+	at InvSee++.jar//com.janboerman.invsee.spigot.InvseePlusPlus.onEnable(InvseePlusPlus.java:86) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:673) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:382) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[22:48:48] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.31.0
+[22:48:48] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.5-SNAPSHOT
+[22:48:48] [Server thread/ERROR]: Error occurred while enabling Geyser-Spigot v2.9.5-SNAPSHOT (Is it up to date?)
+java.lang.ExceptionInInitializerError
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.bukkit.parser.ItemStackParser.<init>(ItemStackParser.java:121) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.bukkit.parser.ItemStackParser.itemStackParser(ItemStackParser.java:83) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.bukkit.BukkitParsers.register(BukkitParsers.java:75) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.bukkit.BukkitCommandManager.<init>(BukkitCommandManager.java:99) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.paper.LegacyPaperCommandManager.<init>(LegacyPaperCommandManager.java:92) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin.onEnable(GeyserSpigotPlugin.java:195) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:673) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:382) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Couldn't find createItemStack method on ItemInput
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.bukkit.internal.CraftBukkitReflection.firstNonNullOrThrow(CraftBukkitReflection.java:125) ~[?:?]
+	at Geyser-Spigot.jar//org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.bukkit.parser.ItemStackParser$ModernParser.<clinit>(ItemStackParser.java:158) ~[?:?]
+	... 17 more
+[22:48:48] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.5-SNAPSHOT
+[22:48:48] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[22:48:48] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.30.15
+[22:48:48] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Give v0.30.15 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/janboerman/invsee/spigot/internal/version/ServerSoftware
+	at InvSee++_Give.jar//com.janboerman.invsee.spigot.addon.give.Setup.setup(Setup.java:13) ~[?:?]
+	at InvSee++_Give.jar//com.janboerman.invsee.spigot.addon.give.GivePlugin.onEnable(GivePlugin.java:30) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:673) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:382) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.janboerman.invsee.spigot.internal.version.ServerSoftware
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:208) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:175) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[?:?]
+	... 13 more
+[22:48:48] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.30.15
+[22:48:48] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.30.15
+[22:48:48] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Clear v0.30.15 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/janboerman/invsee/spigot/InvseePlusPlus
+	at InvSee++_Clear.jar//com.janboerman.invsee.spigot.addon.clear.ClearPlugin.onEnable(ClearPlugin.java:22) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:673) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:382) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.janboerman.invsee.spigot.InvseePlusPlus
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:208) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:175) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490) ~[?:?]
+	... 12 more
+[22:48:48] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.30.15
+[22:48:48] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v23.0
+[22:48:48] [Server thread/ERROR]: Error occurred while enabling CoreProtect v23.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.utility.SystemUtils.getProcessorInfo(SystemUtils.java:241) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.config.ConfigHandler.<clinit>(ConfigHandler.java:63) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.CoreProtect.onEnable(CoreProtect.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:673) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:382) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class com.sun.jna.Native [in thread "ServerMain"]
+	at com.sun.jna.NativeLong.<clinit>(NativeLong.java:35) ~[jna-5.18.1.jar:5.18.1 (b0)]
+	at oshi.util.FileUtil.readNativeLongFromBuffer(FileUtil.java:253) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.driver.linux.proc.Auxv.queryAuxv(Auxv.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.software.os.linux.LinuxOperatingSystem.<clinit>(LinuxOperatingSystem.java:131) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at net.minecraft.SystemReport.lambda$putHardware$0(SystemReport.java:101) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.putHardware(SystemReport.java:101) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.lambda$new$4(SystemReport.java:64) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.ignoreErrors(SystemReport.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:64) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:32) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.CrashReport.preload(CrashReport.java:219) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.Main.main(Main.java:102) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.Main.main(Main.java:204) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[?:?]
+	... 1 more
+[22:48:48] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v23.0
+[22:48:48] [Server thread/ERROR]: Error occurred while disabling CoreProtect v23.0
+java.lang.NoClassDefFoundError: Could not initialize class net.coreprotect.config.ConfigHandler
+	at CoreProtect-CE-23.0.jar//net.coreprotect.services.ShutdownService.safeShutdown(ShutdownService.java:42) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.CoreProtect.onDisable(CoreProtect.java:60) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:242) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:211) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:637) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:594) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:673) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:382) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1292) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:304) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: Could not initialize class oshi.software.os.linux.LinuxOperatingSystem [in thread "Server thread"]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.initProcessorCounts(LinuxCentralProcessor.java:174) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractCentralProcessor.<init>(AbstractCentralProcessor.java:68) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxCentralProcessor.<init>(LinuxCentralProcessor.java:59) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.platform.linux.LinuxHardwareAbstractionLayer.createProcessor(LinuxHardwareAbstractionLayer.java:43) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.util.Memoizer$1.get(Memoizer.java:65) ~[oshi-core-6.9.0.jar:6.9.0]
+	at oshi.hardware.common.AbstractHardwareAbstractionLayer.getProcessor(AbstractHardwareAbstractionLayer.java:48) ~[oshi-core-6.9.0.jar:6.9.0]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.utility.SystemUtils.getProcessorInfo(SystemUtils.java:241) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.config.ConfigHandler.<clinit>(ConfigHandler.java:63) ~[?:?]
+	at CoreProtect-CE-23.0.jar//net.coreprotect.CoreProtect.onEnable(CoreProtect.java:45) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-26.1.2.build.72-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:207) ~[paper-26.1.2.jar:26.1.2-72-1a6b910]
+	... 9 more
+[22:48:48] [Server thread/INFO]: [spark] Starting background profiler...
+[22:48:48] [Server thread/WARN]: [spark] Unable to initialise the async-profiler engine: A runtime error occurred whilst loading the native library (/data/data/com.termux/files/home/mcserver-jerusalem/Minecraft-Server-Paper/plugins/spark/tmp/spark-39551145c8a1-libasyncProfiler.so.tmp: dlopen failed: library "libdl.so.2" not found: needed by /data/data/com.termux/files/home/mcserver-jerusalem/Minecraft-Server-Paper/plugins/spark/tmp/spark-39551145c8a1-libasyncProfiler.so.tmp in namespace (default))
+[22:48:48] [Server thread/WARN]: [spark] Please see here for more information: https://spark.lucko.me/docs/misc/Using-async-profiler
+[22:48:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
+[22:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:the_nether
+[22:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:the_end
+[22:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:48:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:48:49] [Server thread/INFO]: Running delayed init tasks
+[22:48:49] [Server thread/INFO]: Done (62.995s)! For help, type "help"
+[22:49:53] [Server thread/INFO]: Stopping the server
+[22:49:53] [Server thread/INFO]: Stopping server
+[22:49:53] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.0
+[22:49:53] [Server thread/INFO]: Saving players
+[22:49:53] [Server thread/INFO]: Saving worlds
+[22:49:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:overworld
+[22:49:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[22:49:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[22:49:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 63 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.11s
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[22:49:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:the_nether
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 21 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.03s
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[22:49:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Jerusalem]'/minecraft:the_end
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[22:49:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[22:49:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:49:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:49:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:49:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:49:54] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[22:49:54] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[22:49:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[22:49:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
